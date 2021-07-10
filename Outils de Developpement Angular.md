@@ -1,33 +1,38 @@
-#Outils de développement Angular
+# Outils de développement Angular
 
-##Environnement de développement
+## Environnement de développement
 
 NodeJS (installe 2 terminaux, l'un pour les commandes NodeJs et un second NodeJS Prompt pour le lancement des scripts)
-https://nodejs.org/fr/download/
+
+[NodeJS Download](https://nodejs.org/fr/download/)
 
 
 Mettre à jour NPM ( Node Package Manager)
-npm install -g npm@latest
+`npm install -g npm@latest`
 
 Éditeur (VSCode)
-https://code.visualstudio.com/download
+
+[VSCode Download](https://code.visualstudio.com/download)
 
 GIT
-https://git-scm.com/download/win
+[Git Download Windows](https://git-scm.com/download/win)
+
 
 ##Installer TypeScript de manière globale sur le PC
-
-npm install -g typescript
-
-
-##Angular
-Angular Cli
-https://angular.io/cli
-npm install -g @angular/cli
-Vérification : ng version
+`npm install -g npm@latest`
 
 
-##Extensions VSCode
+
+## Angular
+
+[Angular Cli](https://angular.io/cli)
+
+`npm install -g @angular/cli`
+
+Vérification : 
+`ng version`
+
+## Extensions VSCode
 
 Angular Snippets
 https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2&WT.mc_id=javascript-0000-jopapa
@@ -57,7 +62,7 @@ Prettier
 https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode&WT.mc_id=javascript-0000-jopapa
 
 
-##Extensions navigateur
+## Extensions navigateur
 
 Angular Devtools (Chrome uniquement)
 https://chrome.google.com/webstore/detail/angular-devtools/ienfalfjdbdpebioblfackkekamfmbnh?hl=en&authuser=0
