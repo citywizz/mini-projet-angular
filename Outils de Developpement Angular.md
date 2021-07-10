@@ -18,7 +18,7 @@ GIT
 [Git Download Windows](https://git-scm.com/download/win)
 
 
-##Installer TypeScript de manière globale sur le PC
+## Installer TypeScript de manière globale sur le PC
 `npm install -g npm@latest`
 
 
